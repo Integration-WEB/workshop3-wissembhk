@@ -20,8 +20,9 @@ body {
 
 
 /*============= FOOTER =============*/
-
-
+ul{
+  max-width: 15rem;
+}
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
   position: fixed;
@@ -57,6 +58,9 @@ body {
   top:50%;
 }
 
+i:hover{
+  color:red !important;
+}
 
 /*============= MEDIA QUERIES =============*/
 
